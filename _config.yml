@@ -1,0 +1,28 @@
+name: faith
+favicon: null
+layout_spectrum: 0.4624859334435314
+typography_spectrum: 0.965441036503762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5929144346155226
+  lightness: 0.5276328541804105
+  saturation: 0.336499861208722
+  rhythmicContrast: 0.7707135998643935
+purpose: []
